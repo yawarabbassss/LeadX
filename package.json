@@ -1,7 +1,21 @@
 {
   "name": "leadx",
   "version": "1.0.0",
-  "private": true,
+  "license": "MIT",
+  "description": "AI-powered lead qualification & prospecting engine for website & SEO agencies",
+  "keywords": [
+    "lead-generation",
+    "b2b-prospecting",
+    "seo-audit",
+    "web-scraper",
+    "lead-qualification",
+    "grok-ai",
+    "groq",
+    "nextjs",
+    "typescript",
+    "tailwind-css",
+    "supabase"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

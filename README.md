@@ -1,8 +1,20 @@
 # LeadX
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![AI Engine](https://img.shields.io/badge/AI_Engine-Groq_%2F_xAI_Grok-10B981)](https://groq.com/)
+
 > **Find better leads. Pitch smarter.**
 
 LeadX is an AI-powered lead discovery, qualification, and prospecting platform built for freelancers and agencies selling Website Development, Technical SEO, On-Page SEO, Local SEO, and SEO Audits to US businesses.
+
+---
+
+## 🏷️ Tags & Topics
+
+`lead-generation` · `seo-audit` · `b2b-prospecting` · `web-scraper` · `lead-qualification` · `grok-ai` · `groq` · `nextjs-14` · `typescript` · `tailwind-css` · `supabase` · `cold-email`
 
 ---
 
@@ -89,3 +101,9 @@ Run the migration script located at [`supabase/schema.sql`](file:///e:/laragon/w
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — see the [`LICENSE`](LICENSE) file for details.
